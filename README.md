@@ -65,9 +65,8 @@ UNIQUE FEATURES OF SECURE-E-CARZ:
 	b) senior - He will be redirected to a page where SENIOR coupon code is present along with login
 • A 5% discount is available at checkout page for Veteran or Senior using the coupon codes (like VETERAN or SENIOR)
 • Paypal Sandbox is used for Testing
-	a) Buyer : secureecarzdemo@gmail.com (Password : Demo@secureecarz)
-		  shravankumar.kasam@gmail.com (Pasword : nandu@4044)
-	b) Facilitator : nandu.dhamera6-facilitor@gmail.com (Password : nandu@4044)
+	a) Buyer : untsecureecarzdemo@gmail.com (Password : *********)
+		 b) Facilitator : ***********@gmail.com (Password :*******)
 • Once he is done with the payment, clicking on Return to merchant clear the cart and will be redirected to home page
 	
 *** The same credentials as Database can be used for Wordpress login which is our Admin URL
